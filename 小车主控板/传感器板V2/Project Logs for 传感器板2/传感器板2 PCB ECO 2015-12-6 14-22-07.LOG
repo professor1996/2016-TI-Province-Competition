@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=5V Pin=P10-1
+Removed Pin From Net: NetName=PA5 Pin=P10-2
+Removed Pin From Net: NetName=PA7 Pin=P10-3
+Removed Pin From Net: NetName=GND Pin=P10-4
+Removed Pin From Net: NetName=5V Pin=P12-1
+Removed Pin From Net: NetName=PE8 Pin=P12-2
+Removed Pin From Net: NetName=PB1 Pin=P12-3
+Removed Pin From Net: NetName=GND Pin=P12-4
+Removed Pin From Net: NetName=5V Pin=P13-1
+Removed Pin From Net: NetName=PE7 Pin=P13-2
+Removed Pin From Net: NetName=PB0 Pin=P13-3
+Removed Pin From Net: NetName=GND Pin=P13-4
+Change Component DesignItemId : Designator=P10 Old DesignItemId=baizuozi New DesignItemId=KF2EDG_4P
+Change Component DesignItemId : Designator=P12 Old DesignItemId=baizuozi New DesignItemId=KF2EDG_4P
+Change Component DesignItemId : Designator=P13 Old DesignItemId=baizuozi New DesignItemId=KF2EDG_4P
+Change Component Footprint: Designator=P10 Old Footprint=baizuozi New Footprint=PCBComponent_1
+Change Component Footprint: Designator=P12 Old Footprint=baizuozi New Footprint=PCBComponent_1
+Change Component Footprint: Designator=P13 Old Footprint=baizuozi New Footprint=PCBComponent_1
+Change Component Comment : Designator=P10 Old Comment=baizuozi New Comment=KF2EDG_4P
+Change Component Comment : Designator=P12 Old Comment=baizuozi New Comment=KF2EDG_4P
+Change Component Comment : Designator=P13 Old Comment=baizuozi New Comment=KF2EDG_4P
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=PA7 Pin=P10-2
+Added Pin To Net: NetName=PA5 Pin=P10-3
+Added Pin To Net: NetName=5V Pin=P10-4
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=PB1 Pin=P12-2
+Added Pin To Net: NetName=PE8 Pin=P12-3
+Added Pin To Net: NetName=5V Pin=P12-4
+Added Pin To Net: NetName=GND Pin=P13-1
+Added Pin To Net: NetName=PB0 Pin=P13-2
+Added Pin To Net: NetName=PE7 Pin=P13-3
+Added Pin To Net: NetName=5V Pin=P13-4

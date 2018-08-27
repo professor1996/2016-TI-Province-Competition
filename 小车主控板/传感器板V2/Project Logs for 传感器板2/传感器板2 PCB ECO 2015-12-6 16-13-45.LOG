@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PB9 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=PB8 Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-3
+Removed Pin From Net: NetName=PB7 Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-3
+Removed Pin From Net: NetName=PB6 Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=P9-3
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=PB9 Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=PB8 Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P8-1
+Added Pin To Net: NetName=PB7 Pin=P8-3
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=PB6 Pin=P9-3
+Added Member To Class: ClassName=´«¸ÐÆ÷°å2 Member=Component P9 KF2EDG_3P

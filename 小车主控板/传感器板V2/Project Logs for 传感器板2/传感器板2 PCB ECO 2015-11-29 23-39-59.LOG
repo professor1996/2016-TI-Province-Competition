@@ -1,0 +1,196 @@
+Removed Pin From Net: NetName=GND Pin=K1-4
+Removed Pin From Net: NetName=GND Pin=K1-5
+Removed Pin From Net: NetName=GND Pin=K2-4
+Removed Pin From Net: NetName=GND Pin=K2-5
+Removed Pin From Net: NetName=GND Pin=K3-4
+Removed Pin From Net: NetName=GND Pin=K3-5
+Removed Pin From Net: NetName=GND Pin=K4-4
+Removed Pin From Net: NetName=GND Pin=K4-5
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=B340
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=B340
+Change Component DesignItemId : Designator=P10 Old DesignItemId= New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=P11 Old DesignItemId= New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=P12 Old DesignItemId= New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=P13 Old DesignItemId= New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=CAP(0603)
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=CAP(0603)
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=L_22uH
+Change Component DesignItemId : Designator=L2 Old DesignItemId= New DesignItemId=L_22uH
+Change Component DesignItemId : Designator=D7 Old DesignItemId= New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D8 Old DesignItemId= New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D9 Old DesignItemId= New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D10 Old DesignItemId= New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=LED红(0603)
+Change Component DesignItemId : Designator=D5 Old DesignItemId= New DesignItemId=LED蓝(0603)
+Change Component DesignItemId : Designator=D6 Old DesignItemId= New DesignItemId=LED黄(0603)
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R11 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R12 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R13 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R14 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R15 Old DesignItemId= New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=C4 Old DesignItemId= New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C13 Old DesignItemId= New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=TAN CAP
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=TAN CAP
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=VP230
+Change Component DesignItemId : Designator=1 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=2 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=3 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=4 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=U3 Old DesignItemId=AM New DesignItemId=AMS1117-3.3
+Change Component DesignItemId : Designator= Old DesignItemId=B New DesignItemId=BAOXIANZUO
+Change Component DesignItemId : Designator=P6 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P8 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P9 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P14 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P15 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P16 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P17 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P18 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P19 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P20 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P21 Old DesignItemId=Co New DesignItemId=Component_1
+Change Component DesignItemId : Designator=K1 Old DesignItemId=Component_1 New DesignItemId=andongkaiguan
+Change Component DesignItemId : Designator=K2 Old DesignItemId=Component_1 New DesignItemId=andongkaiguan
+Change Component DesignItemId : Designator=K3 Old DesignItemId=Component_1 New DesignItemId=andongkaiguan
+Change Component DesignItemId : Designator=K4 Old DesignItemId=Component_1 New DesignItemId=andongkaiguan
+Change Component DesignItemId : Designator=P22 Old DesignItemId=Header_2 New DesignItemId=Header_2x8(2.0mm)
+Change Component DesignItemId : Designator=P9 Old DesignItemId=Header_2x New DesignItemId=Header_2x11(2.0mm)
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Header_2x New DesignItemId=Header_2x14(2.0mm)
+Change Component DesignItemId : Designator=P8 Old DesignItemId=Header_2x New DesignItemId=Header_2x14(2.0mm)
+Change Component DesignItemId : Designator=P5 Old DesignItemId=MOLEX New DesignItemId=MOLEX1.25_4Pin
+Change Component DesignItemId : Designator=P3 Old DesignItemId=MX3.0mm_4 New DesignItemId=MX3.0mm_43025_2Pin
+Change Component DesignItemId : Designator=P4 Old DesignItemId=MX3.0mm_4 New DesignItemId=MX3.0mm_43025_2Pin
+Change Component DesignItemId : Designator=P1 Old DesignItemId=MX4.2mm 5 New DesignItemId=MX4.2mm 5569 2X1AW
+Change Component DesignItemId : Designator=P2 Old DesignItemId=MX4.2mm 5 New DesignItemId=MX4.2mm 5569 2X1AW
+Change Component Comment : Designator=K1 Old Comment=kaiguan New Comment=andongkaiguan
+Change Component Comment : Designator=K2 Old Comment=kaiguan New Comment=andongkaiguan
+Change Component Comment : Designator=K3 Old Comment=kaiguan New Comment=andongkaiguan
+Change Component Comment : Designator=K4 Old Comment=kaiguan New Comment=andongkaiguan
+Change Component Library : Designator=U5 Old Library=chip.Int New Library=chip.IntLib
+Change Component Library : Designator=C1 Old Library=common.Int New Library=common.IntLib
+Change Component Library : Designator=C10 Old Library=common.Int New Library=common.IntLib
+Change Component Library : Designator=D2 Old Library=common.Int New Library=common.IntLib
+Change Component Library : Designator=D3 Old Library=common.Int New Library=common.IntLib
+Change Component Library : Designator=L1 Old Library=common.Int New Library=common.IntLib
+Change Component Library : Designator=L2 Old Library=common.Int New Library=common.IntLib
+Change Component Library : Designator=1 Old Library=inte New Library=interface.IntLib
+Change Component Library : Designator=2 Old Library=inte New Library=interface.IntLib
+Change Component Library : Designator=3 Old Library=inte New Library=interface.IntLib
+Change Component Library : Designator=4 Old Library=inte New Library=interface.IntLib
+Change Component Library : Designator=K1 Old Library=kaiguan.SchLib New Library=andongkaiguan.SchLib
+Change Component Library : Designator=K2 Old Library=kaiguan.SchLib New Library=andongkaiguan.SchLib
+Change Component Library : Designator=K3 Old Library=kaiguan.SchLib New Library=andongkaiguan.SchLib
+Change Component Library : Designator=K4 Old Library=kaiguan.SchLib New Library=andongkaiguan.SchLib
+Added Component: Designator=D11(LED蓝(0603))
+Added Component: Designator=D12(LED红(0603))
+Added Component: Designator=D13(LED蓝(0603))
+Added Component: Designator=D14(LED红(0603))
+Added Component: Designator=D15(LED蓝(0603))
+Added Component: Designator=D16(LED红(0603))
+Added Component: Designator=D17(LED蓝(0603))
+Added Component: Designator=D18(LED红(0603))
+Added Component: Designator=R16(RES(0603))
+Added Component: Designator=R17(RES(0603))
+Added Component: Designator=R18(RES(0603))
+Added Component: Designator=R19(RES(0603))
+Added Component: Designator=R20(RES(0603))
+Added Component: Designator=R21(RES(0603))
+Added Component: Designator=R22(RES(0603))
+Added Component: Designator=R23(RES(0603))
+Added Pin To Net: NetName=GND Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=GND Pin=D15-2
+Added Pin To Net: NetName=GND Pin=D16-2
+Added Pin To Net: NetName=GND Pin=D17-2
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=5V Pin=K1-5
+Added Pin To Net: NetName=5V Pin=K2-5
+Added Pin To Net: NetName=5V Pin=K3-5
+Added Pin To Net: NetName=5V Pin=K4-5
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R16-2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R17-2
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R18-2
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R19-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=R20-2
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=R21-2
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=R22-2
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=R23-2
+Added Net: Name=NetD18_1
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=R16-1
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK1_6 Pin=R17-1
+Added Net: Name=NetK1_6
+Added Pin To Net: NetName=NetK2_4 Pin=K2-4
+Added Pin To Net: NetName=NetK2_4 Pin=R18-1
+Added Net: Name=NetK2_4
+Added Pin To Net: NetName=NetK2_6 Pin=R19-1
+Added Net: Name=NetK2_6
+Added Pin To Net: NetName=NetK3_4 Pin=K3-4
+Added Pin To Net: NetName=NetK3_4 Pin=R20-1
+Added Net: Name=NetK3_4
+Added Pin To Net: NetName=NetK3_6 Pin=R21-1
+Added Net: Name=NetK3_6
+Added Pin To Net: NetName=NetK4_4 Pin=K4-4
+Added Pin To Net: NetName=NetK4_4 Pin=R22-1
+Added Net: Name=NetK4_4
+Added Pin To Net: NetName=NetK4_6 Pin=R23-1
+Added Net: Name=NetK4_6
+Added Member To Class: ClassName=传感器板2 Member=Component D11 LED蓝(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D12 LED红(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D13 LED蓝(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D14 LED红(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D15 LED蓝(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D16 LED红(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D17 LED蓝(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component D18 LED红(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component P22 Header_2x8(2.0mm)
+Added Member To Class: ClassName=传感器板2 Member=Component R11 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R12 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R13 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R14 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R16 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R17 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R18 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R19 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R20 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R21 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R22 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R23 RES(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component  BAOXIANZUO

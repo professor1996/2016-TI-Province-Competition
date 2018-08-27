@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PA8 Pin=P20-1
+Added Pin To Net: NetName=PA9 Pin=P21-1
+Added Member To Class: ClassName=传感器板2 Member=Component P7 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P8 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P9 baizuozi_3P

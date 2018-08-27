@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=P23 Old DesignItemId=Header 4X2 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=P25 Old DesignItemId=Header 4X2 New DesignItemId=Header 5X2
+Change Component DesignItemId : Designator=P22 Old DesignItemId=Header 8X2 New DesignItemId=Header 7X2
+Change Component DesignItemId : Designator=P24 Old DesignItemId=Header 8X2 New DesignItemId=Header 7X2
+Change Component Footprint: Designator=P23 Old Footprint=HDR2X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=P25 Old Footprint=HDR2X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=P22 Old Footprint=HDR2X8 New Footprint=HDR2X7
+Change Component Footprint: Designator=P24 Old Footprint=HDR2X8 New Footprint=HDR2X7
+Change Component Comment : Designator=P23 Old Comment=Header 4X2 New Comment=Header 5X2
+Change Component Comment : Designator=P25 Old Comment=Header 4X2 New Comment=Header 5X2
+Change Component Comment : Designator=P22 Old Comment=Header 8X2 New Comment=Header 7X2
+Change Component Comment : Designator=P24 Old Comment=Header 8X2 New Comment=Header 7X2

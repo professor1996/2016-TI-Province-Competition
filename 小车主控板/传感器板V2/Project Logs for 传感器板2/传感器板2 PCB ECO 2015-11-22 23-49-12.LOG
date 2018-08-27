@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=CAN_L Pin=P5-1
+Change Component Designator: OldDesignator=* NewDesignator=P10
+Change Component Designator: OldDesignator=* NewDesignator=P11
+Change Component Designator: OldDesignator=* NewDesignator=P12
+Change Component Designator: OldDesignator=* NewDesignator=P13
+Change Component Designator: OldDesignator= NewDesignator=D7
+Change Component Designator: OldDesignator= NewDesignator=D8
+Change Component Designator: OldDesignator= NewDesignator=D9
+Change Component Designator: OldDesignator= NewDesignator=D10
+Change Component Designator: OldDesignator=kaiguan NewDesignator=K1
+Change Component Designator: OldDesignator=kaiguan NewDesignator=K2
+Change Component Designator: OldDesignator=kaiguan NewDesignator=K3
+Change Component Designator: OldDesignator=kaiguan NewDesignator=K4
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P6 NewDesignator=P3
+Change Component Designator: OldDesignator=P* NewDesignator=P6
+Change Component Designator: OldDesignator=P* NewDesignator=P7
+Change Component Designator: OldDesignator=P* NewDesignator=P8
+Change Component Designator: OldDesignator=P* NewDesignator=P9
+Change Component Designator: OldDesignator=P* NewDesignator=P14
+Change Component Designator: OldDesignator=P* NewDesignator=P15
+Change Component Designator: OldDesignator=P* NewDesignator=P16
+Change Component Designator: OldDesignator=P* NewDesignator=P17
+Added Component: Designator=1(定位孔)
+Added Component: Designator=2(定位孔)
+Added Component: Designator=3(定位孔)
+Added Component: Designator=4(定位孔)
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=5V Pin=K1-1
+Added Pin To Net: NetName=6V Pin=K1-3
+Added Pin To Net: NetName=GND Pin=K1-4
+Added Pin To Net: NetName=GND Pin=K1-5
+Added Pin To Net: NetName=5V Pin=K2-1
+Added Pin To Net: NetName=6V Pin=K2-3
+Added Pin To Net: NetName=GND Pin=K2-4
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=5V Pin=K3-1
+Added Pin To Net: NetName=6V Pin=K3-3
+Added Pin To Net: NetName=GND Pin=K3-4
+Added Pin To Net: NetName=GND Pin=K3-5
+Added Pin To Net: NetName=5V Pin=K4-1
+Added Pin To Net: NetName=6V Pin=K4-3
+Added Pin To Net: NetName=GND Pin=K4-4
+Added Pin To Net: NetName=GND Pin=K4-5
+Added Pin To Net: NetName=CAN_L Pin=P4-1
+Added Pin To Net: NetName=CAN_H Pin=P4-2
+Added Pin To Net: NetName=3.3V Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Pin To Net: NetName=5V Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-4
+Added Pin To Net: NetName=5V Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P11-4
+Added Pin To Net: NetName=5V Pin=P12-1
+Added Pin To Net: NetName=GND Pin=P12-4
+Added Pin To Net: NetName=5V Pin=P13-1
+Added Pin To Net: NetName=GND Pin=P13-4
+Added Pin To Net: NetName=5V Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-3
+Added Pin To Net: NetName=5V Pin=P15-1
+Added Pin To Net: NetName=GND Pin=P15-3
+Added Pin To Net: NetName=5V Pin=P16-1
+Added Pin To Net: NetName=GND Pin=P16-3
+Added Pin To Net: NetName=5V Pin=P17-1
+Added Pin To Net: NetName=GND Pin=P17-3
+Added Pin To Net: NetName=K1 Pin=K1-2
+Added Pin To Net: NetName=K1 Pin=P6-2
+Added Net: Name=K1
+Added Pin To Net: NetName=K2 Pin=K2-2
+Added Pin To Net: NetName=K2 Pin=P7-2
+Added Net: Name=K2
+Added Pin To Net: NetName=K3 Pin=K3-2
+Added Pin To Net: NetName=K3 Pin=P8-2
+Added Net: Name=K3
+Added Pin To Net: NetName=K4 Pin=K4-2
+Added Pin To Net: NetName=K4 Pin=P9-2
+Added Net: Name=K4
+Added Member To Class: ClassName=传感器板2 Member=Component 1 定位孔
+Added Member To Class: ClassName=传感器板2 Member=Component 2 定位孔
+Added Member To Class: ClassName=传感器板2 Member=Component 3 定位孔
+Added Member To Class: ClassName=传感器板2 Member=Component 4 定位孔
+Added Member To Class: ClassName=传感器板2 Member=Component D7 LED(0805)
+Added Member To Class: ClassName=传感器板2 Member=Component D8 LED(0805)
+Added Member To Class: ClassName=传感器板2 Member=Component D9 LED(0805)
+Added Member To Class: ClassName=传感器板2 Member=Component D10 LED(0805)
+Added Member To Class: ClassName=传感器板2 Member=Component K2 kaiguan
+Added Member To Class: ClassName=传感器板2 Member=Component K3 kaiguan
+Added Member To Class: ClassName=传感器板2 Member=Component K4 kaiguan
+Added Member To Class: ClassName=传感器板2 Member=Component P5 MOLEX1.25_4Pin
+Added Member To Class: ClassName=传感器板2 Member=Component P6 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P10 baizuozi
+Added Member To Class: ClassName=传感器板2 Member=Component P11 baizuozi
+Added Member To Class: ClassName=传感器板2 Member=Component P12 baizuozi
+Added Member To Class: ClassName=传感器板2 Member=Component P14 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P15 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P16 baizuozi_3P

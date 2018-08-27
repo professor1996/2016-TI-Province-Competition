@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V Pin=P14-1
+Removed Pin From Net: NetName=GND Pin=P14-3
+Removed Pin From Net: NetName=5V Pin=P15-1
+Removed Pin From Net: NetName=GND Pin=P15-3
+Removed Pin From Net: NetName=5V Pin=P16-1
+Removed Pin From Net: NetName=GND Pin=P16-4
+Removed Pin From Net: NetName=5V Pin=P17-1
+Removed Pin From Net: NetName=GND Pin=P17-4
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=5V Pin=P14-3
+Added Pin To Net: NetName=GND Pin=P15-1
+Added Pin To Net: NetName=5V Pin=P15-3
+Added Pin To Net: NetName=GND Pin=P16-1
+Added Pin To Net: NetName=5V Pin=P16-4
+Added Pin To Net: NetName=GND Pin=P17-1
+Added Pin To Net: NetName=5V Pin=P17-4

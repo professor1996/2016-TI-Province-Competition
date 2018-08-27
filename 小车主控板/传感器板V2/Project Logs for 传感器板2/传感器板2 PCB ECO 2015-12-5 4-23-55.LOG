@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA10 Pin=P25-5
+Change Component DesignItemId : Designator=P24 Old DesignItemId=Header 7X2 New DesignItemId=Header 6X2
+Change Component Footprint: Designator=P24 Old Footprint=HDR2X7 New Footprint=HDR2X6
+Change Component Comment : Designator=P24 Old Comment=Header 7X2 New Comment=Header 6X2

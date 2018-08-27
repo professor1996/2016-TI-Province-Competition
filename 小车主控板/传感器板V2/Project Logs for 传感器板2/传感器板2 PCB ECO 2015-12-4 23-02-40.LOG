@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=VREF+ Pin=P7-13
+Removed Pin From Net: NetName=3.3V Pin=P7-14
+Removed Pin From Net: NetName=PA10_RX Pin=P8-5
+Removed Pin From Net: NetName=PA9_TX Pin=P8-6
+Added Pin To Net: NetName=3.3V Pin=P7-13
+Added Pin To Net: NetName=VREF+ Pin=P7-14
+Added Pin To Net: NetName=PA9_TX Pin=P8-5
+Added Pin To Net: NetName=PA10_RX Pin=P8-6
+Change Net Name : Old Net Name=PA0 New Net Name=PA1
+Change Net Name : Old Net Name=PA1 New Net Name=PA0
+Change Net Name : Old Net Name=PA2 New Net Name=PA3
+Change Net Name : Old Net Name=PA3 New Net Name=PA2
+Change Net Name : Old Net Name=PA4 New Net Name=PA5
+Change Net Name : Old Net Name=PA5 New Net Name=PA4
+Change Net Name : Old Net Name=PA6 New Net Name=PA7
+Change Net Name : Old Net Name=PA7 New Net Name=PA6
+Change Net Name : Old Net Name=PA8 New Net Name=PC9
+Change Net Name : Old Net Name=PA15 New Net Name=PC10
+Change Net Name : Old Net Name=PB0 New Net Name=PB1
+Change Net Name : Old Net Name=PB1 New Net Name=PB0
+Change Net Name : Old Net Name=PB3 New Net Name=PD7
+Change Net Name : Old Net Name=PB4 New Net Name=PB5
+Change Net Name : Old Net Name=PB5 New Net Name=PB4
+Change Net Name : Old Net Name=PB6 New Net Name=PB7
+Change Net Name : Old Net Name=PB7 New Net Name=PB6
+Change Net Name : Old Net Name=PB8 New Net Name=PB9
+Change Net Name : Old Net Name=PB9 New Net Name=PB8
+Change Net Name : Old Net Name=PB10 New Net Name=PE15
+Change Net Name : Old Net Name=PB11 New Net Name=PB12
+Change Net Name : Old Net Name=PB12 New Net Name=PB11
+Change Net Name : Old Net Name=PB13 New Net Name=PB14
+Change Net Name : Old Net Name=PB14 New Net Name=PB13
+Change Net Name : Old Net Name=PB15 New Net Name=PD8
+Change Net Name : Old Net Name=PC0 New Net Name=PC1
+Change Net Name : Old Net Name=PC1 New Net Name=PC0
+Change Net Name : Old Net Name=PC2 New Net Name=PC3
+Change Net Name : Old Net Name=PC3 New Net Name=PC2
+Change Net Name : Old Net Name=PC4 New Net Name=PC5
+Change Net Name : Old Net Name=PC5 New Net Name=PC4
+Change Net Name : Old Net Name=PC6 New Net Name=PD15
+Change Net Name : Old Net Name=PC7 New Net Name=PC8
+Change Net Name : Old Net Name=PC8 New Net Name=PC7
+Change Net Name : Old Net Name=PC9 New Net Name=PA8
+Change Net Name : Old Net Name=PC10 New Net Name=PA15
+Change Net Name : Old Net Name=PC11 New Net Name=PC12
+Change Net Name : Old Net Name=PC12 New Net Name=PC11
+Change Net Name : Old Net Name=PC13 New Net Name=PE6
+Change Net Name : Old Net Name=PC14 New Net Name=PC15
+Change Net Name : Old Net Name=PC15 New Net Name=PC14
+Change Net Name : Old Net Name=PD0 New Net Name=PD1
+Change Net Name : Old Net Name=PD1 New Net Name=PD0
+Change Net Name : Old Net Name=PD2 New Net Name=PD3
+Change Net Name : Old Net Name=PD3 New Net Name=PD2
+Change Net Name : Old Net Name=PD5 New Net Name=PD6
+Change Net Name : Old Net Name=PD6 New Net Name=PD5
+Change Net Name : Old Net Name=PD7 New Net Name=PB3
+Change Net Name : Old Net Name=PD8 New Net Name=PB15
+Change Net Name : Old Net Name=PD9 New Net Name=PD10
+Change Net Name : Old Net Name=PD10 New Net Name=PD9
+Change Net Name : Old Net Name=PD11 New Net Name=PD12
+Change Net Name : Old Net Name=PD12 New Net Name=PD11
+Change Net Name : Old Net Name=PD13 New Net Name=PD14
+Change Net Name : Old Net Name=PD14 New Net Name=PD13
+Change Net Name : Old Net Name=PD15 New Net Name=PC6
+Change Net Name : Old Net Name=PE0 New Net Name=PE1
+Change Net Name : Old Net Name=PE1 New Net Name=PE0
+Change Net Name : Old Net Name=PE4 New Net Name=PE5
+Change Net Name : Old Net Name=PE5 New Net Name=PE4
+Change Net Name : Old Net Name=PE6 New Net Name=PC13
+Change Net Name : Old Net Name=PE7 New Net Name=PE8
+Change Net Name : Old Net Name=PE8 New Net Name=PE7
+Change Net Name : Old Net Name=PE9 New Net Name=PE10
+Change Net Name : Old Net Name=PE10 New Net Name=PE9
+Change Net Name : Old Net Name=PE11 New Net Name=PE12
+Change Net Name : Old Net Name=PE12 New Net Name=PE11
+Change Net Name : Old Net Name=PE13 New Net Name=PE14
+Change Net Name : Old Net Name=PE14 New Net Name=PE13
+Change Net Name : Old Net Name=PE15 New Net Name=PB10
+Added Room: Name=´«¸ÐÆ÷°å2

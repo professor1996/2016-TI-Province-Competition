@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P22 Old DesignItemId=Header_2x8(2.0mm) New DesignItemId=HEADER_6x2(2.54mm)
+Change Component Footprint: Designator=P22 Old Footprint=Header_2x8(2.0mm) New Footprint=PCBComponent_1
+Change Component Comment : Designator=P22 Old Comment=Header_2x8(2.0mm) New Comment=HEADER_6x2(2.54mm)
+Added Member To Class: ClassName=´«¸ÐÆ÷°å2 Member=Component  BAOXIANZUO

@@ -1,0 +1,34 @@
+Added Component: Designator=P8(Header_2x14(2.0mm))
+Added Pin To Net: NetName=PC7 Pin=P8-1
+Added Pin To Net: NetName=PC8 Pin=P8-2
+Added Pin To Net: NetName=PC9 Pin=P8-3
+Added Pin To Net: NetName=PA8 Pin=P8-4
+Added Pin To Net: NetName=PA9 Pin=P8-5
+Added Pin To Net: NetName=PA10 Pin=P8-6
+Added Pin To Net: NetName=PA15 Pin=P8-9
+Added Pin To Net: NetName=PC10 Pin=P8-10
+Added Pin To Net: NetName=PC11 Pin=P8-11
+Added Pin To Net: NetName=PC12 Pin=P8-12
+Added Pin To Net: NetName=PD0 Pin=P8-13
+Added Pin To Net: NetName=PD1 Pin=P8-14
+Added Pin To Net: NetName=PD2 Pin=P8-15
+Added Pin To Net: NetName=PD3 Pin=P8-16
+Added Pin To Net: NetName=PD5 Pin=P8-17
+Added Pin To Net: NetName=PD6 Pin=P8-18
+Added Pin To Net: NetName=PD7 Pin=P8-19
+Added Pin To Net: NetName=PB3 Pin=P8-20
+Added Pin To Net: NetName=PB4 Pin=P8-21
+Added Pin To Net: NetName=PB5 Pin=P8-22
+Added Pin To Net: NetName=PB6 Pin=P8-23
+Added Pin To Net: NetName=PB7 Pin=P8-24
+Added Pin To Net: NetName=PB8 Pin=P8-25
+Added Pin To Net: NetName=PB9 Pin=P8-26
+Added Pin To Net: NetName=PE0 Pin=P8-27
+Added Pin To Net: NetName=PE1 Pin=P8-28
+Added Pin To Net: NetName=PA11 Pin=P8-7
+Added Pin To Net: NetName=PA11 Pin=U5-4
+Added Net: Name=PA11
+Added Pin To Net: NetName=PA12 Pin=P8-8
+Added Pin To Net: NetName=PA12 Pin=U5-1
+Added Net: Name=PA12
+Added Room: Name=´«¸ÐÆ÷°å2

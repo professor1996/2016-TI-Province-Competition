@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=P23 Old DesignItemId=Header 6X2 New DesignItemId=Header 4X2
+Change Component DesignItemId : Designator=P25 Old DesignItemId=Header 6X2 New DesignItemId=Header 4X2
+Change Component Footprint: Designator=P23 Old Footprint=HDR2X6 New Footprint=HDR2X4
+Change Component Footprint: Designator=P25 Old Footprint=HDR2X6 New Footprint=HDR2X4
+Change Component Comment : Designator=P23 Old Comment=Header 6X2 New Comment=Header 4X2
+Change Component Comment : Designator=P25 Old Comment=Header 6X2 New Comment=Header 4X2

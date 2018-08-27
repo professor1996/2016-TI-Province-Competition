@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PA8 Pin=KF2EDG_3P-1
+Removed Pin From Net: NetName=GND Pin=KF2EDG_3P-3
+Removed Pin From Net: NetName=PA9 Pin=P21-1
+Removed Pin From Net: NetName=GND Pin=P21-3
+Change Component Designator: OldDesignator=KF2EDG_3P NewDesignator=P20
+Added Pin To Net: NetName=GND Pin=P20-1
+Added Pin To Net: NetName=PA8 Pin=P20-3
+Added Pin To Net: NetName=GND Pin=P21-1
+Added Pin To Net: NetName=PA9 Pin=P21-3

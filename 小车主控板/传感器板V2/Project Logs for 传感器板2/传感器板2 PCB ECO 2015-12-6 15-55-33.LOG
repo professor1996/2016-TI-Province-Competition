@@ -1,0 +1,5 @@
+Added Component: Designator=KF2EDG_3P(PCBComponent_1)
+Added Pin To Net: NetName=PA8 Pin=KF2EDG_3P-1
+Added Pin To Net: NetName=5V Pin=KF2EDG_3P-2
+Added Pin To Net: NetName=GND Pin=KF2EDG_3P-3
+Added Member To Class: ClassName=´«¸ÐÆ÷°å2 Member=Component KF2EDG_3P

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=PB9 Pin=P6-1
+Removed Pin From Net: NetName=K1 Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=PB8 Pin=P7-1
+Removed Pin From Net: NetName=K2 Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P7-3
+Removed Pin From Net: NetName=PB6 Pin=P9-1
+Removed Pin From Net: NetName=K4 Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P9-3
+Removed Member From Class: ClassName=传感器板2 Member=P6
+Added Component: Designator=KF2EDG_3P(PCBComponent_1)
+Added Component: Designator=KF2EDG_3P(PCBComponent_1)
+Added Component: Designator=KF2EDG_3P(PCBComponent_1)
+Added Component: Designator=KF2EDG_3P(PCBComponent_1)
+Added Pin To Net: NetName=PB6 Pin=KF2EDG_3P-1
+Added Pin To Net: NetName=PB7 Pin=KF2EDG_3P-1
+Added Pin To Net: NetName=PB8 Pin=KF2EDG_3P-1
+Added Pin To Net: NetName=PB9 Pin=KF2EDG_3P-1
+Added Pin To Net: NetName=K1 Pin=KF2EDG_3P-2
+Added Pin To Net: NetName=K2 Pin=KF2EDG_3P-2
+Added Pin To Net: NetName=K3 Pin=KF2EDG_3P-2
+Added Pin To Net: NetName=K4 Pin=KF2EDG_3P-2
+Added Pin To Net: NetName=GND Pin=KF2EDG_3P-3
+Added Pin To Net: NetName=GND Pin=KF2EDG_3P-3
+Added Pin To Net: NetName=GND Pin=KF2EDG_3P-3
+Added Pin To Net: NetName=GND Pin=KF2EDG_3P-3
+Added Member To Class: ClassName=传感器板2 Member=Component KF2EDG_3P
+Added Room: Name=传感器板2

@@ -1,0 +1,81 @@
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=B340
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=B340
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=L_22uH
+Change Component DesignItemId : Designator=L2 Old DesignItemId= New DesignItemId=L_22uH
+Change Component DesignItemId : Designator=C1 Old DesignItemId= New DesignItemId=TAN CAP
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=TAN CAP
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=VP230
+Change Component DesignItemId : Designator=1 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=2 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=3 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=4 Old DesignItemId= New DesignItemId=定位孔
+Change Component DesignItemId : Designator=U3 Old DesignItemId=AMS11 New DesignItemId=AMS1117-3.3
+Change Component DesignItemId : Designator=P10 Old DesignItemId=ba New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=P11 Old DesignItemId=ba New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=P12 Old DesignItemId=ba New DesignItemId=baizuozi
+Change Component DesignItemId : Designator=P13 Old DesignItemId=ba New DesignItemId=baizuozi
+Change Component DesignItemId : Designator= Old DesignItemId=BAOX New DesignItemId=BAOXIANZUO
+Change Component DesignItemId : Designator=C3 Old DesignItemId=CAP New DesignItemId=CAP(0603)
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CAP New DesignItemId=CAP(0603)
+Change Component DesignItemId : Designator=C12 Old DesignItemId=CAP New DesignItemId=CAP(0603)
+Change Component DesignItemId : Designator=C14 Old DesignItemId=CAP New DesignItemId=CAP(0603)
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAP New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CAP New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CAP New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C11 Old DesignItemId=CAP New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=P6 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P8 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P9 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P14 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P15 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P16 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P17 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P18 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P19 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P20 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P21 Old DesignItemId=Compo New DesignItemId=Component_1
+Change Component DesignItemId : Designator=P9 Old DesignItemId=Header_2x11( New DesignItemId=Header_2x11(2.0mm)
+Change Component DesignItemId : Designator=P7 Old DesignItemId=Header_2x14( New DesignItemId=Header_2x14(2.0mm)
+Change Component DesignItemId : Designator=P8 Old DesignItemId=Header_2x14( New DesignItemId=Header_2x14(2.0mm)
+Change Component DesignItemId : Designator=D4 Old DesignItemId=L New DesignItemId=LED红(0603)
+Change Component DesignItemId : Designator=D5 Old DesignItemId=L New DesignItemId=LED蓝(0603)
+Change Component DesignItemId : Designator=D6 Old DesignItemId=L New DesignItemId=LED黄(0603)
+Change Component DesignItemId : Designator=D7 Old DesignItemId=LED New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D8 Old DesignItemId=LED New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D9 Old DesignItemId=LED New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=D10 Old DesignItemId=LED New DesignItemId=LED(0805)
+Change Component DesignItemId : Designator=P5 Old DesignItemId=MOLEX1.2 New DesignItemId=MOLEX1.25_4Pin
+Change Component DesignItemId : Designator=P3 Old DesignItemId=MX3.0mm_4302 New DesignItemId=MX3.0mm_43025_2Pin
+Change Component DesignItemId : Designator=P4 Old DesignItemId=MX3.0mm_4302 New DesignItemId=MX3.0mm_43025_2Pin
+Change Component DesignItemId : Designator=P1 Old DesignItemId=MX4.2mm 5569 New DesignItemId=MX4.2mm 5569 2X1AW
+Change Component DesignItemId : Designator=P2 Old DesignItemId=MX4.2mm 5569 New DesignItemId=MX4.2mm 5569 2X1AW
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=R15 Old DesignItemId=RES New DesignItemId=RES(0603)
+Change Component DesignItemId : Designator=C4 Old DesignItemId=T New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C6 Old DesignItemId=T New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C8 Old DesignItemId=T New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=C13 Old DesignItemId=T New DesignItemId=TAN106C
+Change Component DesignItemId : Designator=U2 Old DesignItemId=T New DesignItemId=TPS5430
+Change Component DesignItemId : Designator=U4 Old DesignItemId=T New DesignItemId=TPS5430
+Change Component Footprint: Designator=C2 Old Footprint=CAP(0603) New Footprint=CAP(0805)
+Change Component Footprint: Designator=C11 Old Footprint=CAP(0603) New Footprint=CAP(0805)
+Change Component Comment : Designator=C2 Old Comment=1UF(0603) New Comment=1UF(0805)
+Change Component Comment : Designator=C11 Old Comment=1UF(0603) New Comment=1UF(0805)
+Change Component Description : Designator=K1 Old Description=k New Description=kaiguan
+Change Component Description : Designator=K2 Old Description=k New Description=kaiguan
+Change Component Description : Designator=K3 Old Description=k New Description=kaiguan
+Change Component Description : Designator=K4 Old Description=k New Description=kaiguan
+Change Component Library : Designator=1 Old Library=interface. New Library=interface.IntLib
+Change Component Library : Designator=2 Old Library=interface. New Library=interface.IntLib
+Change Component Library : Designator=3 Old Library=interface. New Library=interface.IntLib
+Change Component Library : Designator=4 Old Library=interface. New Library=interface.IntLib
+Added Member To Class: ClassName=传感器板2 Member=Component P20 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P21 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component  BAOXIANZUO

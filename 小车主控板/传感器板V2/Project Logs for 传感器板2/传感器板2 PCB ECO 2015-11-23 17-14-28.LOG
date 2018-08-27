@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CAP(0603) New DesignItemId=CAP(0805)
+Change Component DesignItemId : Designator=C14 Old DesignItemId=CAP(0603) New DesignItemId=CAP(0805)
+Change Component Footprint: Designator=C5 Old Footprint=CAP(0603) New Footprint=CAP(0805)
+Change Component Footprint: Designator=C14 Old Footprint=CAP(0603) New Footprint=CAP(0805)
+Change Component Comment : Designator=C5 Old Comment=1UF(0603) New Comment=1UF(0805)
+Change Component Comment : Designator=C14 Old Comment=1UF(0603) New Comment=1UF(0805)

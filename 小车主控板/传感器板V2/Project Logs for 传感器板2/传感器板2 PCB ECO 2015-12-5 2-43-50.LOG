@@ -1,0 +1,2 @@
+Change Net Name : Old Net Name=CAN_RXD New Net Name=CAN_RD
+Change Net Name : Old Net Name=CAN_TXD New Net Name=CAN_TD

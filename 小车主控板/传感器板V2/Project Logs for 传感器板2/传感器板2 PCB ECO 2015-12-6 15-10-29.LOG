@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=PE14 Pin=P23-1
+Removed Pin From Net: NetName=PE13 Pin=P23-2
+Removed Pin From Net: NetName=PE15 Pin=P23-3
+Removed Pin From Net: NetName=PB13 Pin=P23-4
+Removed Pin From Net: NetName=PB15 Pin=P23-5
+Removed Pin From Net: NetName=PD9 Pin=P23-6
+Removed Pin From Net: NetName=PD12 Pin=P23-7
+Removed Pin From Net: NetName=PD11 Pin=P23-8
+Removed Pin From Net: NetName=PD14 Pin=P23-9
+Removed Pin From Net: NetName=PD13 Pin=P23-10
+Change Component DesignItemId : Designator=P23 Old DesignItemId=Header 5X2 New DesignItemId=2x5HDR_F
+Change Component DesignItemId : Designator=P22 Old DesignItemId=Header 7X2 New DesignItemId=Header 8X2
+Change Component Footprint: Designator=P23 Old Footprint=HDR2X5 New Footprint=2x5HDR_F
+Change Component Footprint: Designator=P22 Old Footprint=HDR2X7 New Footprint=HDR2X8
+Change Component Comment : Designator=P23 Old Comment=Header 5X2 New Comment=2x5HDR_F
+Change Component Comment : Designator=P22 Old Comment=Header 7X2 New Comment=Header 8X2
+Added Pin To Net: NetName=PE14 Pin=P22-15
+Added Pin To Net: NetName=PE13 Pin=P22-16
+Added Pin To Net: NetName=PE15 Pin=P23-1
+Added Pin To Net: NetName=PB13 Pin=P23-2
+Added Pin To Net: NetName=PB15 Pin=P23-3
+Added Pin To Net: NetName=PD9 Pin=P23-4
+Added Pin To Net: NetName=PD12 Pin=P23-5
+Added Pin To Net: NetName=PD11 Pin=P23-6
+Added Pin To Net: NetName=PD14 Pin=P23-7
+Added Pin To Net: NetName=PD13 Pin=P23-8
+Added Pin To Net: NetName=3.3V Pin=P23-9
+Added Pin To Net: NetName=GND Pin=P23-10
+Added Room: Name=´«¸ÐÆ÷°å2

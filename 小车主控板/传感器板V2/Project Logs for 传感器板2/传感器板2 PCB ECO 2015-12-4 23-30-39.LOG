@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PA9_TX Pin=P8-5
+Removed Pin From Net: NetName=PA10_RX Pin=P8-6
+Removed Pin From Net: NetName=CAN_TXD Pin=U5-1
+Removed Pin From Net: NetName=CAN_RXD Pin=U5-4
+Added Pin To Net: NetName=PA9 Pin=P8-5
+Added Net: Name=PA9
+Added Pin To Net: NetName=PA10 Pin=P8-6
+Added Net: Name=PA10
+Added Pin To Net: NetName=PB10_TX Pin=P9-8
+Added Pin To Net: NetName=PB10_TX Pin=U5-1
+Added Net: Name=PB10_TX
+Added Pin To Net: NetName=PB11_RX Pin=P9-9
+Added Pin To Net: NetName=PB11_RX Pin=U5-4
+Added Net: Name=PB11_RX

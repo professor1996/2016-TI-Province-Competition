@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=CAN_RXD Pin=P8-7
+Added Pin To Net: NetName=CAN_TXD Pin=P8-8

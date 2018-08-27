@@ -1,0 +1,8 @@
+Added Component: Designator=P20(PCBComponent_1)
+Added Component: Designator=P21(PCBComponent_1)
+Added Pin To Net: NetName=5V Pin=P20-2
+Added Pin To Net: NetName=GND Pin=P20-3
+Added Pin To Net: NetName=5V Pin=P21-2
+Added Pin To Net: NetName=GND Pin=P21-3
+Added Member To Class: ClassName=传感器板2 Member=Component P20 baizuozi_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P21 baizuozi_3P

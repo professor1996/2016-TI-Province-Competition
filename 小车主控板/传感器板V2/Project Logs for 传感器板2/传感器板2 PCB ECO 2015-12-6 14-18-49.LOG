@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=P11-1
+Removed Pin From Net: NetName=PA4 Pin=P11-2
+Removed Pin From Net: NetName=PA6 Pin=P11-3
+Removed Pin From Net: NetName=GND Pin=P11-4
+Change Component DesignItemId : Designator=P11 Old DesignItemId=baizuozi New DesignItemId=KF2EDG_4P
+Change Component Footprint: Designator=P11 Old Footprint=baizuozi New Footprint=PCBComponent_1
+Change Component Comment : Designator=P11 Old Comment=baizuozi New Comment=KF2EDG_4P
+Added Pin To Net: NetName=GND Pin=P11-1
+Added Pin To Net: NetName=PA6 Pin=P11-2
+Added Pin To Net: NetName=PA4 Pin=P11-3
+Added Pin To Net: NetName=5V Pin=P11-4

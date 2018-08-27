@@ -1,0 +1,18 @@
+Added Component: Designator=P15(PCBComponent_1)
+Added Component: Designator=P16(PCBComponent_1)
+Added Component: Designator=P17(PCBComponent_1)
+Added Pin To Net: NetName=5V Pin=P15-1
+Added Pin To Net: NetName=PC1 Pin=P15-2
+Added Pin To Net: NetName=GND Pin=P15-3
+Added Pin To Net: NetName=5V Pin=P16-1
+Added Pin To Net: NetName=PC2 Pin=P16-2
+Added Pin To Net: NetName=PC5 Pin=P16-3
+Added Pin To Net: NetName=GND Pin=P16-4
+Added Pin To Net: NetName=5V Pin=P17-1
+Added Pin To Net: NetName=PC3 Pin=P17-2
+Added Pin To Net: NetName=PC4 Pin=P17-3
+Added Pin To Net: NetName=GND Pin=P17-4
+Added Member To Class: ClassName=传感器板2 Member=Component P15 KF2EDG_3P
+Added Member To Class: ClassName=传感器板2 Member=Component P16 KF2EDG_4P
+Added Member To Class: ClassName=传感器板2 Member=Component P17 KF2EDG_4P
+Added Room: Name=传感器板2

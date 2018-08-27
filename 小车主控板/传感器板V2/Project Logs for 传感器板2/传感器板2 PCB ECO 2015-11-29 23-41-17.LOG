@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=5V Pin=K1-1
+Removed Pin From Net: NetName=K1 Pin=K1-2
+Removed Pin From Net: NetName=6V Pin=K1-3
+Removed Pin From Net: NetName=5V Pin=K1-5
+Removed Pin From Net: NetName=5V Pin=K2-1
+Removed Pin From Net: NetName=K2 Pin=K2-2
+Removed Pin From Net: NetName=6V Pin=K2-3
+Removed Pin From Net: NetName=5V Pin=K2-5
+Removed Pin From Net: NetName=5V Pin=K3-1
+Removed Pin From Net: NetName=K3 Pin=K3-2
+Removed Pin From Net: NetName=6V Pin=K3-3
+Removed Pin From Net: NetName=5V Pin=K3-5
+Removed Pin From Net: NetName=5V Pin=K4-1
+Removed Pin From Net: NetName=K4 Pin=K4-2
+Removed Pin From Net: NetName=6V Pin=K4-3
+Removed Pin From Net: NetName=5V Pin=K4-5
+Removed Member From Class: ClassName=传感器板2 Member=K1
+Removed Member From Class: ClassName=传感器板2 Member=K2
+Removed Member From Class: ClassName=传感器板2 Member=K3
+Removed Member From Class: ClassName=传感器板2 Member=K4
+Added Component: Designator=K5(PCBComponent_1)
+Added Component: Designator=K6(PCBComponent_1)
+Added Component: Designator=K7(PCBComponent_1)
+Added Component: Designator=K8(PCBComponent_1)
+Added Pin To Net: NetName=5V Pin=K5-1
+Added Pin To Net: NetName=K1 Pin=K5-2
+Added Pin To Net: NetName=6V Pin=K5-3
+Added Pin To Net: NetName=5V Pin=K5-5
+Added Pin To Net: NetName=5V Pin=K6-1
+Added Pin To Net: NetName=K2 Pin=K6-2
+Added Pin To Net: NetName=6V Pin=K6-3
+Added Pin To Net: NetName=5V Pin=K6-5
+Added Pin To Net: NetName=5V Pin=K7-1
+Added Pin To Net: NetName=K3 Pin=K7-2
+Added Pin To Net: NetName=6V Pin=K7-3
+Added Pin To Net: NetName=5V Pin=K7-5
+Added Pin To Net: NetName=5V Pin=K8-1
+Added Pin To Net: NetName=K4 Pin=K8-2
+Added Pin To Net: NetName=6V Pin=K8-3
+Added Pin To Net: NetName=5V Pin=K8-5
+Added Pin To Net: NetName=NetK5_4 Pin=K5-4
+Added Pin To Net: NetName=NetK5_4 Pin=R16-1
+Added Net: Name=NetK5_4
+Added Pin To Net: NetName=NetK5_6 Pin=K5-6
+Added Pin To Net: NetName=NetK5_6 Pin=R17-1
+Added Net: Name=NetK5_6
+Added Pin To Net: NetName=NetK6_4 Pin=K6-4
+Added Pin To Net: NetName=NetK6_4 Pin=R18-1
+Added Net: Name=NetK6_4
+Added Pin To Net: NetName=NetK6_6 Pin=K6-6
+Added Pin To Net: NetName=NetK6_6 Pin=R19-1
+Added Net: Name=NetK6_6
+Added Pin To Net: NetName=NetK7_4 Pin=K7-4
+Added Pin To Net: NetName=NetK7_4 Pin=R20-1
+Added Net: Name=NetK7_4
+Added Pin To Net: NetName=NetK7_6 Pin=K7-6
+Added Pin To Net: NetName=NetK7_6 Pin=R21-1
+Added Net: Name=NetK7_6
+Added Pin To Net: NetName=NetK8_4 Pin=K8-4
+Added Pin To Net: NetName=NetK8_4 Pin=R22-1
+Added Net: Name=NetK8_4
+Added Pin To Net: NetName=NetK8_6 Pin=K8-6
+Added Pin To Net: NetName=NetK8_6 Pin=R23-1
+Added Net: Name=NetK8_6
+Added Member To Class: ClassName=传感器板2 Member=Component K5 andongkaiguan
+Added Member To Class: ClassName=传感器板2 Member=Component K6 andongkaiguan
+Added Member To Class: ClassName=传感器板2 Member=Component K7 andongkaiguan
+Added Member To Class: ClassName=传感器板2 Member=Component K8 andongkaiguan
+Added Room: Name=传感器板2

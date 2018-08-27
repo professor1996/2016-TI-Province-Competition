@@ -1,0 +1,12 @@
+Added Component: Designator=P7(PCBComponent_1)
+Added Component: Designator=P8(PCBComponent_1)
+Added Component: Designator=P9(PCBComponent_1)
+Added Pin To Net: NetName=PB8 Pin=P7-1
+Added Pin To Net: NetName=K2 Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=PB7 Pin=P8-1
+Added Pin To Net: NetName=K3 Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=PB6 Pin=P9-1
+Added Pin To Net: NetName=K4 Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-3

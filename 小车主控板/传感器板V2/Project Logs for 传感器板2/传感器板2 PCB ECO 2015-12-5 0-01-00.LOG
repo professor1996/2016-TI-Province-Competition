@@ -1,0 +1,12 @@
+Added Component: Designator=P26(HDR2X5)
+Added Pin To Net: NetName=INPUT Pin=P26-1
+Added Pin To Net: NetName=INPUT Pin=P26-2
+Added Pin To Net: NetName=6V Pin=P26-3
+Added Pin To Net: NetName=6V Pin=P26-4
+Added Pin To Net: NetName=5V Pin=P26-5
+Added Pin To Net: NetName=5V Pin=P26-6
+Added Pin To Net: NetName=3.3V Pin=P26-7
+Added Pin To Net: NetName=3.3V Pin=P26-8
+Added Pin To Net: NetName=GND Pin=P26-9
+Added Pin To Net: NetName=GND Pin=P26-10
+Added Member To Class: ClassName=´«¸ÐÆ÷°å2 Member=Component P26 Header 5X2

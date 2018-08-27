@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3.3V Pin=P7-13
+Added Component: Designator=R24(RES(0603))
+Added Component: Designator=(CAP(0603))
+Added Component: Designator=(CAP(0603))
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=3.3V Pin=R24-1
+Added Pin To Net: NetName=VREF+ Pin=-1
+Added Pin To Net: NetName=VREF+ Pin=-1
+Added Pin To Net: NetName=VREF+ Pin=P7-13
+Added Pin To Net: NetName=VREF+ Pin=R24-2
+Added Net: Name=VREF+
+Added Member To Class: ClassName=传感器板2 Member=Component R24 RES(0603)
+Added Room: Name=传感器板2

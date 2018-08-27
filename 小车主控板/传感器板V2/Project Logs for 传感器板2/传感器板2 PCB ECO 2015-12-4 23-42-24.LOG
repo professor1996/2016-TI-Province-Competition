@@ -1,0 +1,4 @@
+Added Component: Designator=P24(HDR2X6)
+Added Component: Designator=P25(HDR2X6)
+Added Member To Class: ClassName=传感器板2 Member=Component P24 Header 6X2
+Added Member To Class: ClassName=传感器板2 Member=Component P25 Header 6X2

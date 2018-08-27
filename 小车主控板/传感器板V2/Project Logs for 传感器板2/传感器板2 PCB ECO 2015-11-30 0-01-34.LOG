@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator= NewDesignator=C15
+Change Component Designator: OldDesignator= NewDesignator=C16
+Added Pin To Net: NetName=VREF+ Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Member To Class: ClassName=传感器板2 Member=Component C15 CAP(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component C16 CAP(0603)

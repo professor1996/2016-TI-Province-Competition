@@ -1,0 +1,20 @@
+Added Component: Designator=R11(RES(0603))
+Added Component: Designator=R12(RES(0603))
+Added Component: Designator=R13(RES(0603))
+Added Component: Designator=R14(RES(0603))
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R11-2
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R12-2
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R13-2
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R14-2
+Added Net: Name=NetD10_2
+Added Member To Class: ClassName=传感器板2 Member=Component R11 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R12 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R13 1K(0603)
+Added Member To Class: ClassName=传感器板2 Member=Component R14 1K(0603)

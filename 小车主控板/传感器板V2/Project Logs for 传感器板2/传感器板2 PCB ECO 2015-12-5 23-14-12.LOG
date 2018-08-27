@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=5V Pin=P14-1
+Removed Pin From Net: NetName=PC0 Pin=P14-2
+Removed Pin From Net: NetName=GND Pin=P14-3
+Removed Pin From Net: NetName=5V Pin=P15-1
+Removed Pin From Net: NetName=PC1 Pin=P15-2
+Removed Pin From Net: NetName=GND Pin=P15-3
+Removed Pin From Net: NetName=5V Pin=P16-1
+Removed Pin From Net: NetName=PC2 Pin=P16-2
+Removed Pin From Net: NetName=PC5 Pin=P16-3
+Removed Pin From Net: NetName=5V Pin=P17-1
+Removed Pin From Net: NetName=PC3 Pin=P17-2
+Removed Pin From Net: NetName=PC4 Pin=P17-3
+Removed Member From Class: ClassName=传感器板2 Member=P14
+Removed Member From Class: ClassName=传感器板2 Member=P15
+Removed Member From Class: ClassName=传感器板2 Member=P16
+Removed Member From Class: ClassName=传感器板2 Member=P17
